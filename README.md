@@ -6,7 +6,7 @@
 - Search engine
 
 ### Representation 
-- In the image represntation, one tries to encode an image compactly into a global or local features (the term features ,embeddings or encondings are used interchangeably) which captures crucial content in the image. The encoded features are then used to build the search space or a matrix of encodings.
+- In the image representation, one tries to encode an image compactly into a global or local features (the term features ,embeddings or encondings are used interchangeably) which captures crucial content in the image. The encoded features are then used to build the search space or a matrix of encodings.
 
 ### Image search problem
 - In search problem, a database constructed using the encoded feature(s) of index images (which are also referred as gallery or reference images) is used to find the nearest neighbors matching to the input or query image. A simple example of search: finding k-Nearest-Neighbors of a query-embedding in a reference-embeddings database. 
