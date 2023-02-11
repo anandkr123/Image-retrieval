@@ -15,9 +15,9 @@
 
 - Use 4 layers Convolution Autoencoders to learn low dimensional rich hidden representation of different type of images.
 
-- Addition of noise in the image to help the the model learn the rich features from the image which by remving the noise 
+- Addition of noise in the image database to help the the model learn rich features from the image by removing the noise from images.
 
-- Images are encoded in a hidden representation of 0’s and 1’s and stored in a matrix know as 'matrix of encondings'
+- Images are encoded in a hidden representation of 0’s and 1’s and stored in a matrix know as 'matrix of encondings'.
 
 ### Search a query image
 
