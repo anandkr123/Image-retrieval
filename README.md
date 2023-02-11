@@ -13,11 +13,11 @@
 
 ### Approach using Deep learning to learn Representation
 
-- Use 4 layers Convolution Autoencoders to learn low dimensional rich hidden representation of different type of images.
+- Use 4 layers Convolution Autoencoders(encoders and decoders) to learn low dimensional rich hidden representation of different type of images.
 
 - Addition of noise in the image database to help the the model learn rich features from the image by removing the noise from images.
 
-- Images are encoded in a hidden representation of 0’s and 1’s and stored in a matrix know as 'matrix of encondings'.
+- Images are encoded in a hidden representation between 0’s and 1’s and stored in a matrix know as 'matrix of encondings'.
 
 ### Search a query image
 
