@@ -25,7 +25,7 @@
 
 - The top 3 images with the highest score are the closest image results for a query image
 
-- The closest matchable image found through XOR between the query image representation and each image hidden representation in the repository matrix to get a score of similarity.
+- The top 3 scores matchable images found through XOR between the query image representation and each image hidden representation in the repository matrix to get a score of similarity.
 
 
 ### Results 
